@@ -6,7 +6,7 @@
   "scripts": {
     "run": "nodemon app.js"
   },
-  "author": "Sanidhya",
+  "author": "Yash",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
